@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.product</groupId>
-	<artifactId>05b-OrderService</artifactId>
+	<artifactId>05b-OrderService-ribbon</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>05b-OrderService</name>
+	<name>05b-OrderService-ribbon</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
